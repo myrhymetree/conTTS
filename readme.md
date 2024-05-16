@@ -6,3 +6,6 @@ https://docs.typecast.ai/guide/polling.html#step-2-send-a-request-repeatedly-unt
 1단계 음성 변환 요청   
 2단계 변환 요청이 완료 될때까지 반복적으로 상태 체크   
 3단계 다운로드 url 응답 받기   
+
+## 테스트 분석 결과
+https://www.notion.so/myrhymetree/API-c03cbf624e88497aa0a77e7ebecf635d
